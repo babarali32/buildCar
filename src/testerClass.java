@@ -1,10 +1,10 @@
 public class testerClass {
     public static void main(String[] args) {
         carmanufacture car=new carmanufacture();
-        car.color="indigo";
-        car.door="one";
-        car.seats="4";
-        car.speed="100 km/h";
+        car.speed="80 km/h";
+        car.door="2";
+        car.seats="2";
+        car.color="green";
         System.out.println(car.color);
 
     }
